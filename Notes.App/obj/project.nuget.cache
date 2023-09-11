@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PNM2uK8qMfpeZ9uRbiJ3Tq66mvhR3yEuWQNlM/befKzT8LwKX3fVH5Gq0WT0gqogy/ycNzQCjWCUPgxqTI3fvg==",
+  "dgSpecHash": "1oM8bgSqqygL6tkhIMUCALYttnQsSumf6sErUH+bnP+rzHS001NsOL36uwg4xd+nodg8MVa/wpXB4Fqjs1+m6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\flash\\RiderProjects\\NotesAPI\\Notes.App\\Notes.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flash\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\flash\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\flash\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\flash\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\flash\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

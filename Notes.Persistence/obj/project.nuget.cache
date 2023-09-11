@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "n6M3clyPpeGXyw6lLWw5Jqg+Du/BbMw+13heJuIJq5WilvtksG1GGO4+zu920K5wJ7wb/QhDte0Anh4t0eWNew==",
+  "dgSpecHash": "eHwoYNLNcGuP4eNnpHiZHvPFjZVd6DOD4FvMeJTG65BZF+PZy1fdgcTJeHi3eljW+lJtvyxbS2B9htx84KiUzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\flash\\RiderProjects\\NotesAPI\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flash\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\flash\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\flash\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\flash\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\flash\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
